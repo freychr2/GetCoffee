@@ -1,0 +1,54 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin:auto;
+  width: 80%;
+}
+
+.swipe-card {
+  margin: 0 .5em;
+  width: 18%;
+  background-color: #ecf0f1;
+  box-shadow: .2em .2em 1em #888888;
+  border-radius: .5em;
+  font-size: 1em;
+  text-decoration: none;
+  color: black;
+  transition: .5s;
+}
+
+.swipe-card:hover {
+  width: 20%;
+  font-size: 1.2em;
+  transition: .5s;
+}
+
+.profile-pics {
+  width: 80%;
+  margin: 10%;
+  border-radius: 25%;
+
+}
+
+.tagline {
+  text-align: center;
+  padding: .5em;
+}
+
+.title {
+  text-align: center;
+  font-size: 3em;
+  padding: 1em;
+}
+
+.mentor-name {
+  text-align: center;
+  font-size: 1.25em;
+  padding: .5em;
+}
