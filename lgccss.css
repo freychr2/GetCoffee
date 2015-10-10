@@ -11,7 +11,7 @@ img {
     width: 100%;
     height: 100%;
     paddding-top: 50px;
-    
+
 }
 
 ul{
@@ -30,8 +30,8 @@ ul .nav {
 body{
     font-family: 'Quattrocento Sans', sans-serif;
     background-color: lightgrey;
-    
-    
+
+
 }
 
 .page{
@@ -39,20 +39,20 @@ body{
     background-color: whitesmoke;
     margin: 0 auto;
     height: 100%;
-    
+
 }
 
-.nav a{ 
-    
+.nav a{
+
     color: orangered;
     list-style: none;
     text-decoration: none;
-    
-     
-    
+
+
+
 }
 .nav{
-    
+
 }
 
 a:hover{
@@ -95,7 +95,7 @@ button:active {
    background: #a8a8a8;
    }
 
-h2{ 
+h2{
     color: darkgray;
 }
 
